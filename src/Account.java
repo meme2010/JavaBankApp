@@ -48,7 +48,7 @@ public class Account {
         Account person1 = new Account(1234);
         person1.deposite(1234,4);
         person1.deposite(1234,5);
-        person1.deposite(1234,20);
+        person1.deposite(1234,220);
         person1.withdrawal(1234,20);
 
         System.out.println(person1.getBalanceCents());
